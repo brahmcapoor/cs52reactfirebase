@@ -1,0 +1,13 @@
+.card {
+    width: 500px;
+    height: 800px;
+}
+
+.cardContainer {
+    margin: auto;
+}
+
+.outerContainer {
+    display: flex;
+    height: 1000px;
+}
